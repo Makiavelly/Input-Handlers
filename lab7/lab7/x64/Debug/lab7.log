@@ -1,0 +1,3 @@
+﻿  res.cpp
+C:\Users\Мишаня\source\repos\lab7\lab7\res.cpp(368): warning C4715: dropout: значение возвращается не при всех путях выполнения
+  lab7.vcxproj -> C:\Users\Мишаня\source\repos\lab7\x64\Debug\lab7.exe

@@ -1,0 +1,6 @@
+﻿  res.cpp
+C:\Users\Мишаня\source\repos\lab5\lab5_1\res.cpp(117,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Мишаня\source\repos\lab5\lab5_1\res.cpp(160,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Мишаня\source\repos\lab5\lab5_1\res.cpp(126,33): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\Мишаня\source\repos\lab5\lab5_1\res.cpp(86,10): warning C4101: check_zero: неиспользованная локальная переменная
+  lab5.vcxproj -> C:\Users\Мишаня\source\repos\lab5\x64\Debug\lab5_1.exe
