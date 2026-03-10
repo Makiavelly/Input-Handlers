@@ -1,0 +1,6 @@
+﻿  res.cpp
+C:\Users\Мишаня\source\repos\lab4\lanb4_2\res.cpp(57,49): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Мишаня\source\repos\lab4\lanb4_2\res.cpp(80,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Мишаня\source\repos\lab4\lanb4_2\res.cpp(85,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Мишаня\source\repos\lab4\lanb4_2\res.cpp(85,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lanb4_2.vcxproj -> C:\Users\Мишаня\source\repos\lab4\x64\Debug\lanb4_2.exe
